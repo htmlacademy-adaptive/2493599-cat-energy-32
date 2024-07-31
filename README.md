@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [Татарникова Татьяна](https://up.htmlacademy.ru/adaptive/32/user/2493599).
-* Наставник: [Ирина Антипина] (https://htmlacademy.ru/profile/id2108789).
+* Наставник: [Ирина Антипина](https://htmlacademy.ru/profile/id2108789).
 
 ---
 
